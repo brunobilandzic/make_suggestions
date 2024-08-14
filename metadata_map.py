@@ -1,0 +1,16 @@
+agm67_value = 51
+name = 0
+rownumber_column = 52
+begining = 3
+table_tag_column = 52
+price_column = 53
+price_type_column = 54
+prostori = range(3, 10)
+prostori_exclude = range(0)
+vikendice = range(13, 16)
+vikendice_exclude = range(12, 13)
+stanovi = range(16, 25)
+stanovi_exclude = range(18,22)
+ostalo = range(26, 45)
+ostalo_exclude = range(34,36)
+default_exclude = range(0)
